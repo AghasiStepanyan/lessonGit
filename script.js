@@ -1,26 +1,16 @@
+// primitive
 
-
-// primitive 
-
-// number
-
-
-
-
-
+// ...number
 
 let x = 15;
 let y = 15.2;
 
-
-
 // +- infinity NaN
-
 
 // string
 
-let surname = "Yeghiazaryan" 
-let age = 35 
+let surname = "Yeghiazaryan";
+let age = 35;
 // let str = `my name is Anushavan ${age}`
 console.log(age);
 // console.log('my age is', + age, + "",  str)
@@ -36,27 +26,24 @@ console.log(age);
 // // boolean
 // // true false
 
-
 // // let conf = confirm("Grancvac eq te voch")
 // let p = prompt("tye your name")
 // console.log(p);
 // console.log(conf);
 
-
 // null
 
 let u;
 
-
 console.log(u);
 
-u = "name"
+u = "name";
 console.log(u);
 
 let n = 15;
 console.log(n);
 
-n = null
+n = null;
 console.log(n);
 
 // undefined
